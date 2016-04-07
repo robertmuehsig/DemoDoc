@@ -1,9 +1,18 @@
-# This is the default format.
-# For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:title/
+---
+layout: default
+title: architecture
+---
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "LICENSE.txt", "_stage"]
-highlighter: 'rouge' 
+kahsdkh askjdh akjsdh kalsgdj asgdj gasjd gasjd gajsd gasjgd jaksgdj aghsdj agsdj gasjd gasjkdg ajsdg jasdg
 
-# https://help.github.com/articles/migrating-your-pages-site-from-maruku
-markdown: kramdown
+    <xml>
+        <foo>helloworld</foo>
+    </xml>
+
+asdklja kjlsdhkl adjklasdjklas 
+
+* adsasd 
+* ad asdklja
+* asda sd
+* adasd
+* asdasasd
