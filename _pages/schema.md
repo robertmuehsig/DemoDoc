@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Schema
-permalink: "/schema/"
+permalink: "/test/schema/"
 ---
 
 kahsdkh askjdh akjsdh kalsgdj asgdj gasjd gasjd gajsd gasjgd jaksgdj aghsdj agsdj gasjd gasjkdg ajsdg jasdg
