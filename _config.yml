@@ -9,3 +9,5 @@ highlighter: 'rouge'
 markdown: kramdown
 
 include: ['_pages']
+
+baseurl: /DemoDoc
